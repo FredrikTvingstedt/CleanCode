@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44478",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Code\\CleanCode\\CleanCode\\CleanCode\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
